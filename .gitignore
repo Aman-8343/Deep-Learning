@@ -11,3 +11,6 @@ data/
 # Ignore Python cache
 __pycache__/
 *.pyc
+
+#largest dataset
+IMDB Dataset.csv
